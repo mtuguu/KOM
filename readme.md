@@ -1,2 +1,3 @@
-Hi! This is my first git repository.
-This if my first file in git repo.
+Git is very coo!
+This is my first file in git repo.
+
